@@ -8,4 +8,4 @@
 
 `<Coloque aqui o print da tela do Curriculum Vitae>`
 
-![Curriculum Vitae](img/vizualizacao-curriculo.png)
+![Curriculum Vitae](img/visualizacao-curriculo.png)
